@@ -1,6 +1,6 @@
 # Welcome to Next.js Learning
 
-![Next.js Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aplyca.com%2Fblog%2Fnextjs-el-futuro-web-que-es-nextjs&psig=AOvVaw1OW8SxDJYOgeXh74hF3EoU&ust=1695317572816000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjHv5_cuYEDFQAAAAAdAAAAABAI)
+
 
 Welcome to the "welcome-to-Next.js" repository! This is where I'll be documenting my journey of learning Next.js from scratch. Whether you're new to Next.js or looking to explore its capabilities further, you'll find a variety of projects and resources here.
 
